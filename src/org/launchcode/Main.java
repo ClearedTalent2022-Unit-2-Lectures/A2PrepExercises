@@ -11,6 +11,7 @@ public class Main {
         // names you like!
 
 
-
+        // Once you've created your objects, use getters and print out various pieces of information about
+        // each of the objects
     }
 }
